@@ -1,5 +1,3 @@
-*> Name:                   Remus Calugarescu
-*> Example Program Call:   cobc -free -x -Wall isbn.cob && ./isbn
 *> NOTES:                  It is expected that the input file will have no more than 1000 lines
 
 identification division.
